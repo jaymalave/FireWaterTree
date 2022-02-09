@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://jaymalave.github.io/static/css/main.4d716490.css",
+    "main.js": "https://jaymalave.github.io/static/js/main.ea1e6af7.js",
+    "static/js/787.6c3fad03.chunk.js": "https://jaymalave.github.io/static/js/787.6c3fad03.chunk.js",
+    "index.html": "https://jaymalave.github.io/index.html",
+    "main.4d716490.css.map": "https://jaymalave.github.io/static/css/main.4d716490.css.map",
+    "main.ea1e6af7.js.map": "https://jaymalave.github.io/static/js/main.ea1e6af7.js.map",
+    "787.6c3fad03.chunk.js.map": "https://jaymalave.github.io/static/js/787.6c3fad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d716490.css",
+    "static/js/main.ea1e6af7.js"
+  ]
+}
