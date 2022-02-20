@@ -1,7 +1,7 @@
 import "./App.css";
 import OptionImage from "./components/OptionImage";
 import OptionButton from "./components/OptionButton";
-import { useState, useMem, useEffect } from "react";
+import { useState, useEffect } from "react";
 import ConfettiExplosion from '@reonomy/react-confetti-explosion';
 
 function App() {
