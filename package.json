@@ -1,5 +1,4 @@
 {
-  
   "name": "solution",
   "version": "0.1.0",
   "private": true,
@@ -39,8 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jaymalave.github.io/FireWaterTree/",
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "homepage": "."
 }
